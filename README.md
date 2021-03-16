@@ -12,4 +12,4 @@ We will observe patients' medication adherence to medication groups like anticoa
 - Medication adherence
 - Past medical history (i.e. hypertension, cardiac arrythmia, valvular heart disease, CHF, and COPD)
 
-The data is fully de-identified for HIPAA compliance and includes adjudicated claims from health plans for all provider types (MD, Rx, Hospital, Lab, etc.). The professor on this project required the data maniputlation and extraction to be completed with Python.
+The data is fully de-identified for HIPAA compliance and includes adjudicated claims from health plans for all provider types (MD, Rx, Hospital, Lab, etc.).
